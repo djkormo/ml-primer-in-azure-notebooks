@@ -22,7 +22,7 @@ Click on My Project and next use Upload GitHub Repo
 
 Fill  djkormo/ml-primer-in-azure-notebooks  as github repository
 
-![Uload](upload-github-repo-1.png)
+![Uload](upload-github-repo-2.png)
 
 Click import and after a while
 
@@ -36,6 +36,13 @@ Click on Run on Free Compute
 
 Status: Running on Free Compute 
 
-![First project](first-project-1.png)
+![First project](first-project-2.png)
 
 Now we have our first Jupyter Notebook project
+
+We can also use JupyterLab
+
+![First project](jupyter-lab-1.png)
+
+
+![First project](jupyter-lab-1.png)
