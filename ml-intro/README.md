@@ -1,1 +1,3 @@
-![](ml-types.jpg)
+Machine learning base algorithms
+
+![](ml-types.png)
