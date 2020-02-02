@@ -40,9 +40,14 @@ Status: Running on Free Compute
 
 Now we have our first Jupyter Notebook project
 
+
+
 We can also use JupyterLab
 
+Click with the right button no your project
+
 ![First project](jupyter-lab-1.png)
 
+And choose Run in JupyterLab
 
-![First project](jupyter-lab-1.png)
+![First project](jupyter-lab-2.png)
