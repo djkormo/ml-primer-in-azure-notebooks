@@ -9,7 +9,7 @@ https://notebooks.azure.com/
 
 Browse at:
 
-https://notebook.azure.com
+https://notebooks.azure.com
 
 Login with your Microsoft account
 
