@@ -11,6 +11,10 @@ Browse at:
 
 https://notebooks.azure.com
 
+Sign in:
+
+If you don't have the account yet, you can create one using this link: https://signup.live.com
+
 Login with your Microsoft account
 
 ![Login](login.png)
