@@ -6,7 +6,7 @@ These distance functions can be Euclidean, Manhattan, Minkowski and Hamming dist
 
 More: Introduction to k-nearest neighbors : Simplified.
 
-![](KNN.webp)
+![](KNN.png)
 
 KNN can easily be mapped to our real lives. If you want to learn about a person, of whom you have no information, you might like to find out about his close friends and the circles he moves in and gain access to his/her information!
 
@@ -15,3 +15,8 @@ Things to consider before selecting kNN:
     KNN is computationally expensive
     Variables should be normalized else higher range variables can bias it
     Works on pre-processing stage more before going for kNN like an outlier, noise removal
+
+
+
+https://www.youtube.com/watch?v=HVXime0nQeI
+

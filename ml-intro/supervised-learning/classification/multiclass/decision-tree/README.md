@@ -14,3 +14,8 @@ The best way to understand how decision tree works, is to play Jezzball – a cl
 So, every time you split the room with a wall, you are trying to create 2 different populations with in the same room. Decision trees work in very similar fashion by dividing a population in as different groups as possible.
 
 More: Simplified Version of Decision Tree Algorithms
+
+
+
+https://www.youtube.com/watch?v=7VeUPuFGJHk
+

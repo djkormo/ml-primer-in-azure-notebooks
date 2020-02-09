@@ -17,3 +17,8 @@ Next, reassign each point to the closest cluster centroid. In the figure above, 
 Then, calculate centroids for the new clusters. The old centroids are gray stars; the new centroids are the red, green, and blue stars.
 
 Finally, repeat steps 2-3 until there is no switching of points from one cluster to another. Once there is no switching for 2 consecutive steps, exit the K-means algorithm.
+
+
+
+https://www.youtube.com/watch?v=4b5d3muPQmA
+

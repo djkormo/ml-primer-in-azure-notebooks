@@ -19,3 +19,7 @@ Now, you may ask, why take a log? For the sake of simplicity, let’s just say t
 ![](logistic-regression.png)
 
 Build your own logistic regression model in Python here and check the accuracy:
+
+
+https://www.youtube.com/watch?v=yIYKR4sgzI8
+

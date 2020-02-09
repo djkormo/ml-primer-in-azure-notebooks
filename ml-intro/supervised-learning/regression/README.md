@@ -21,3 +21,7 @@ Look at the below example. Here we have identified the best fit line having line
 Linear Regression is mainly of two types: Simple Linear Regression and Multiple Linear Regression. Simple Linear Regression is characterized by one independent variable. And, Multiple Linear Regression(as the name suggests) is characterized by multiple (more than 1) independent variables. While finding the best fit line, you can fit a polynomial or curvilinear regression. And these are known as polynomial or curvilinear regression.
 
 Here’s a coding window to try out your hand and build your own linear regression model in Python:
+
+
+https://www.youtube.com/watch?v=nk2CQITm_eo
+
